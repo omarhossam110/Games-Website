@@ -1,0 +1,24 @@
+/*-------------- Small Screens - sm --------------*/
+/*-------------- 640px and above --------------*/
+
+@media (min-width: 640px) {}
+
+/*-------------- Medium Screens - md --------------*/
+/*-------------- 768px and above --------------*/
+
+@media (min-width: 768px) {}
+
+/*-------------- Large Screens - lg --------------*/
+/*-------------- 1024px and above --------------*/
+
+@media (min-width: 1024px) {}
+
+/*-------------- Extra Large Screens - xl --------------*/
+/*-------------- 1280px and above --------------*/
+
+@media (min-width: 1280px) {}
+
+/*-------------- 2X Large Screens - xxl --------------*/
+/*-------------- 1536px and above --------------*/
+
+@media (min-width: 1536px) {}

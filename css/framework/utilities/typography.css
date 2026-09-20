@@ -1,0 +1,700 @@
+/* ---------- Font Fize Classes ---------- */
+/* Uses The "Pixel Value" as Part of Its Name */
+
+.text-12 {
+    font-size: 12px;
+}
+
+.text-14 {
+    font-size: 14px;
+}
+
+.text-18 {
+    font-size: 18px;
+}
+
+.text-20 {
+    font-size: 20px;
+}
+
+.text-24 {
+    font-size: 24px;
+}
+
+.text-30 {
+    font-size: 30px;
+}
+
+.text-36 {
+    font-size: 36px;
+}
+
+.text-48 {
+    font-size: 48px;
+}
+
+.text-60 {
+    font-size: 60px;
+}
+
+/* ---------- Font Weight Classes ---------- */
+
+.font-medium {
+    font-weight: 500;
+}
+
+.font-semi-bold {
+    font-weight: 600;
+}
+
+.font-bold {
+    font-weight: 700;
+}
+
+.font-extra-bold {
+    font-weight: 800;
+}
+
+.font-extra2-bold {
+    font-weight: 900;
+}
+
+/* ---------- Text Color Classes ---------- */
+
+.text-white {
+    color: #fff;
+}
+
+.text-black {
+    color: #000;
+}
+
+/* Gray Color */
+.text-gray-3 {
+    color: #d1d5dc;
+}
+
+.text-gray-4 {
+    color: #99a1af;
+}
+
+.text-gray-5 {
+    color: #6a7282;
+}
+
+.text-gray-6 {
+    color: #4a5565;
+}
+
+.text-gray-7 {
+    color: #364153;
+}
+
+.text-gray-9 {
+    color: #101828;
+}
+
+/* Violet Color */
+.text-violet-5 {
+    color: #8e51ff;
+}
+
+.text-violet-6 {
+    color: #7f22fe;
+}
+
+.text-violet-7 {
+    color: #7008e7;
+}
+
+.text-violet-8 {
+    color: #5d0ec0;
+}
+
+/* Purple Color */
+
+.text-purple-5 {
+    color: #ad46ff;
+}
+
+.text-purple-6 {
+    color: #9810fa;
+}
+
+.text-purple-8 {
+    color: #6e12b0;
+}
+
+/* Green Color */
+
+.text-green-4 {
+    color: #06df72;
+}
+
+.text-green-5 {
+    color: #00c950;
+}
+
+.text-green-6 {
+    color: #00a63e;
+}
+
+.text-green-7 {
+    color: #008235;
+}
+
+.text-green-8 {
+    color: #026630;
+}
+
+/* Red Color */
+
+.text-red-5 {
+    color: #fb2c36;
+}
+
+.text-red-6 {
+    color: #e7000b;
+}
+
+.text-red-8 {
+    color: #9e1924;
+}
+
+/* Orange Color */
+
+.text-orange-5 {
+    color: #ff6900;
+}
+
+.text-orange-6 {
+    color: #f54a00;
+}
+
+.text-orange-8 {
+    color: #9f2d00;
+}
+
+/* Blue Color */
+
+.text-blue-5 {
+    color: #2b7fff;
+}
+
+.text-blue-6 {
+    color: #155dfc;
+}
+
+.text-blue-8 {
+    color: #193cb8;
+}
+
+/* Other Colors */
+
+.text-neutral-6 {
+    color: #525252;
+}
+
+.text-indigo-6 {
+    color: #4f39f6;
+}
+
+.text-cyan-6 {
+    color: #0092b8;
+}
+
+.text-emerald-6 {
+    color: #009966;
+}
+
+.text-yellow-6 {
+    color: #d08700;
+}
+
+.text-pink-6 {
+    color: #e60076;
+}
+
+.text-cyan-8 {
+    color: #005f78;
+}
+
+.text-yellow-8 {
+    color: #8a4c00;
+}
+
+.text-indigo-8 {
+    color: #372aac;
+}
+
+.text-emerald-8 {
+    color: #006045;
+}
+
+/* ---------- Hover Text Color ---------- */
+
+.hover-text-yellow-3:hover {
+    color: #ffdf20;
+}
+
+.hover-text-red-5:hover {
+    color: #fb2c36;
+}
+
+.hover-text-blue-5:hover {
+    color: #2b7fff;
+}
+
+.hover-text-purple-5:hover {
+    color: #ad46ff;
+}
+
+.hover-text-orange:hover {
+    color: #ff7a50;
+}
+
+.hover-text-gray-7:hover {
+    color: #364153;
+}
+
+.hover-text-gray-9:hover {
+    color: #101828;
+}
+
+
+/* ---------- Text Align Classes ---------- */
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+/* ---------- Line Height Classes ---------- */
+
+.line-h-none {
+    line-height: 1;
+}
+
+.line-h-11 {
+    line-height: 1.111;
+}
+
+.line-h-125 {
+    line-height: 1.25;
+}
+
+.line-h-1625 {
+    line-height: 1.625;
+}
+
+.line-h-2 {
+    line-height: 2;
+}
+
+/* ---------- Text Decoration Classes ---------- */
+
+.decoration-none {
+    text-decoration: none;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.rotate-text {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+}
+
+/* font family */
+
+.font-daysone {
+    font-family: "Days One", sans-serif !important;
+}
+
+/*-------------- Large Screens - lg --------------*/
+/*-------------- 1024px and above --------------*/
+
+@media (min-width: 1024px) {
+    .important-lg-text-left {
+        text-align: left !important;
+    }
+}
+
+
+
+/*
+ * Responsive Typography Utilities
+ *
+ * Provides utility classes for controlling font sizes
+ * with responsive breakpoint variants inspired by Tailwind CSS.
+*/
+
+/*-------------- Base Font Sizes --------------*/
+
+
+.text-xs {
+    font-size: 0.75rem;
+}
+
+.text-sm {
+    font-size: 0.875rem;
+}
+
+.text-base {
+    font-size: 1rem;
+}
+
+.text-lg {
+    font-size: 1.125rem;
+}
+
+.text-xl {
+    font-size: 1.25rem;
+}
+
+.text-2xl {
+    font-size: 1.5rem;
+}
+
+.text-3xl {
+    font-size: 1.875rem;
+}
+
+.text-4xl {
+    font-size: 2.25rem;
+}
+
+.text-5xl {
+    font-size: 3rem;
+}
+
+.text-6xl {
+    font-size: 3.75rem;
+}
+
+.text-7xl {
+    font-size: 4.5rem;
+}
+
+.text-8xl {
+    font-size: 6rem;
+}
+
+.text-9xl {
+    font-size: 8rem;
+}
+
+
+/*-------------- Small Screens - sm --------------*/
+/*-------------- 640px and above --------------*/
+
+
+@media (min-width: 640px) {
+
+    .sm-text-xs {
+        font-size: 0.75rem;
+    }
+
+    .sm-text-sm {
+        font-size: 0.875rem;
+    }
+
+    .sm-text-base {
+        font-size: 1rem;
+    }
+
+    .sm-text-lg {
+        font-size: 1.125rem;
+    }
+
+    .sm-text-xl {
+        font-size: 1.25rem;
+    }
+
+    .sm-text-2xl {
+        font-size: 1.5rem;
+    }
+
+    .sm-text-3xl {
+        font-size: 1.875rem;
+    }
+
+    .sm-text-4xl {
+        font-size: 2.25rem;
+    }
+
+    .sm-text-5xl {
+        font-size: 3rem;
+    }
+
+    .sm-text-6xl {
+        font-size: 3.75rem;
+    }
+
+    .sm-text-7xl {
+        font-size: 4.5rem;
+    }
+
+    .sm-text-8xl {
+        font-size: 6rem;
+    }
+
+    .sm-text-9xl {
+        font-size: 8rem;
+    }
+}
+
+
+/*-------------- Medium Screens - md --------------*/
+/*-------------- 768px and above --------------*/
+
+@media (min-width: 768px) {
+
+    .md-text-xs {
+        font-size: 0.75rem;
+    }
+
+    .md-text-sm {
+        font-size: 0.875rem;
+    }
+
+    .md-text-base {
+        font-size: 1rem;
+    }
+
+    .md-text-lg {
+        font-size: 1.125rem;
+    }
+
+    .md-text-xl {
+        font-size: 1.25rem;
+    }
+
+    .md-text-2xl {
+        font-size: 1.5rem;
+    }
+
+    .md-text-3xl {
+        font-size: 1.875rem;
+    }
+
+    .md-text-4xl {
+        font-size: 2.25rem;
+    }
+
+    .md-text-5xl {
+        font-size: 3rem;
+    }
+
+    .md-text-6xl {
+        font-size: 3.75rem;
+    }
+
+    .md-text-7xl {
+        font-size: 4.5rem;
+    }
+
+    .md-text-8xl {
+        font-size: 6rem;
+    }
+
+    .md-text-9xl {
+        font-size: 8rem;
+    }
+}
+
+
+
+/*-------------- Large Screens - lg --------------*/
+/*-------------- 1024px and above --------------*/
+
+
+
+@media (min-width: 1024px) {
+
+    .lg-text-xs {
+        font-size: 0.75rem;
+    }
+
+    .lg-text-sm {
+        font-size: 0.875rem;
+    }
+
+    .lg-text-base {
+        font-size: 1rem;
+    }
+
+    .lg-text-lg {
+        font-size: 1.125rem;
+    }
+
+    .lg-text-xl {
+        font-size: 1.25rem;
+    }
+
+    .lg-text-2xl {
+        font-size: 1.5rem;
+    }
+
+    .lg-text-3xl {
+        font-size: 1.875rem;
+    }
+
+    .lg-text-4xl {
+        font-size: 2.25rem;
+    }
+
+    .lg-text-5xl {
+        font-size: 3rem;
+    }
+
+    .lg-text-6xl {
+        font-size: 3.75rem;
+    }
+
+    .lg-text-7xl {
+        font-size: 4.5rem;
+    }
+
+    .lg-text-8xl {
+        font-size: 6rem;
+    }
+
+    .lg-text-9xl {
+        font-size: 8rem;
+    }
+}
+
+
+
+/*-------------- Extra Large Screens - xl --------------*/
+/*-------------- 1280px and above --------------*/
+
+
+
+@media (min-width: 1280px) {
+
+    .xl-text-xs {
+        font-size: 0.75rem;
+    }
+
+    .xl-text-sm {
+        font-size: 0.875rem;
+    }
+
+    .xl-text-base {
+        font-size: 1rem;
+    }
+
+    .xl-text-lg {
+        font-size: 1.125rem;
+    }
+
+    .xl-text-xl {
+        font-size: 1.25rem;
+    }
+
+    .xl-text-2xl {
+        font-size: 1.5rem;
+    }
+
+    .xl-text-3xl {
+        font-size: 1.875rem;
+    }
+
+    .xl-text-4xl {
+        font-size: 2.25rem;
+    }
+
+    .xl-text-5xl {
+        font-size: 3rem;
+    }
+
+    .xl-text-6xl {
+        font-size: 3.75rem;
+    }
+
+    .xl-text-7xl {
+        font-size: 4.5rem;
+    }
+
+    .xl-text-8xl {
+        font-size: 6rem;
+    }
+
+    .xl-text-9xl {
+        font-size: 8rem;
+    }
+}
+
+
+/*-------------- 2X Large Screens - 2xl --------------*/
+/*-------------- 1536px and above --------------*/
+
+
+@media (min-width: 1536px) {
+
+    .xxl-text-xs {
+        font-size: 0.75rem;
+    }
+
+    .xxl-text-sm {
+        font-size: 0.875rem;
+    }
+
+    .xxl-text-base {
+        font-size: 1rem;
+    }
+
+    .xxl-text-lg {
+        font-size: 1.125rem;
+    }
+
+    .xxl-text-xl {
+        font-size: 1.25rem;
+    }
+
+    .xxl-text-2xl {
+        font-size: 1.5rem;
+    }
+
+    .xxl-text-3xl {
+        font-size: 1.875rem;
+    }
+
+    .xxl-text-4xl {
+        font-size: 2.25rem;
+    }
+
+    .xxl-text-5xl {
+        font-size: 3rem;
+    }
+
+    .xxl-text-6xl {
+        font-size: 3.75rem;
+    }
+
+    .xxl-text-7xl {
+        font-size: 4.5rem;
+    }
+
+    .xxl-text-8xl {
+        font-size: 6rem;
+    }
+
+    .xxl-text-9xl {
+        font-size: 8rem;
+    }
+}

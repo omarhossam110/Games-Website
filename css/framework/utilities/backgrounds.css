@@ -1,0 +1,254 @@
+/* ---------- Background Classes ---------- */
+
+.bg-transparent {
+    background-color: transparent;
+}
+.bg-white {
+    background-color: #fff;
+}
+.bg-black {
+    background-color: #000;
+}
+
+/* Violet Backgrounds */
+
+.bg-violet-05 {
+    background-color: #f5f3ff;
+}
+.bg-violet-1 {
+    background-color: #ede9fe;
+}
+.bg-violet-4 {
+    background-color: #a684ff;
+}
+.bg-violet-5 {
+    background-color: #8e51ff;
+}
+.bg-violet-6 {
+    background-color: #7f22fe;
+}
+
+/* Gray Backgrounds */
+.bg-gray-05 {
+    background-color: #fbf9fa;
+}
+.bg-gray-2 {
+    background-color: #ebe6e7;
+}
+.bg-gray-7 {
+    background-color: #364153;
+}
+.bg-gray-8 {
+    background-color: #1e2939;
+}
+.bg-gray-9 {
+    background-color: #101828;
+}
+
+/* Blue Backgrounds */
+
+.bg-blue-05 {
+    background-color: #eff6ff;
+}
+.bg-blue-1 {
+    background-color: #dbeafe;
+}
+.bg-blue-5 {
+    background-color: #2b7fff;
+}
+.bg-blue-6 {
+    background-color: #155dfc;
+}
+.bg-blue-8 {
+    background-color: #193cb8;
+}
+
+/* Emerald Backgrounds */
+
+.bg-emerald-05 {
+    background-color: #ecfdf5;
+}
+.bg-emerald-1 {
+    background-color: #d0fae5;
+}
+.bg-emerald-5{
+    background-color: #10b981;;
+}
+.bg-emerald-6 {
+    background-color: #009966;
+}
+
+/* Purple Backgrounds */
+
+.bg-purple-05 {
+    background-color: #faf5ff;
+}
+.bg-purple-1 {
+    background-color: #f3e8ff;
+}
+.bg-purple-5 {
+    background-color: #ad46ff;
+}
+.bg-purple-6 {
+    background-color: #9810fa;
+}
+
+/* Yellow Backgrounds */
+
+.bg-yellow {
+    background-color: #ffd15b;
+}
+.bg-yellow-1 {
+    background-color: #fef9c2;
+}
+.bg-yellow-2 {
+    background-color:#fff085;
+}
+.bg-yellow-3 {
+    background-color: #ffdf20;
+}
+.bg-yellow-5 {
+    background-color: #f0b100;
+}
+
+/* Red Backgrounds */
+
+.bg-red-05 {
+    background-color: #fef2f2;
+}
+.bg-red-1{
+    background-color: #ffe2e2;
+}
+.bg-red-5 {
+    background-color: #fb2c36;
+}
+
+/* Green Backgrounds */
+
+.bg-green-05 {
+    background-color: #f0fdf4;
+}
+.bg-green-1 {
+    background-color: #dcfce7;
+}
+.bg-green-3 {
+    background-color: #7bf1a8;
+}
+.bg-green-5 {
+    background-color: #00c951;
+}
+
+/* Pink Backgrounds */
+
+.bg-pink-1 {
+    background-color: #fce7f3;
+}
+.bg-pink-3 {
+    background-color: #fda5d6;
+}
+.bg-pink-5{
+    background-color: #f6339a;
+}
+
+/* Other Colors Backgrounds */
+
+.bg-indigo-1{
+    background-color: #e0e7ff;
+}
+.bg-cyan-1 {
+    background-color: #cefafe;
+}
+.bg-neutral-05 {
+    background-color: #fafafa;
+}
+.bg-neutral-1 {
+    background-color: #f5f5f5;
+}
+.bg-orange-1{
+    background-color: #ffedd4;
+}
+.bg-slate-1 {
+    background-color: #f9f3f4;
+}
+.bg-amber-3 {
+    background-color: #ffd230;
+}
+.bg-teal-5 {
+    background-color: #00bba7;
+}
+.bg-cyan-5 {
+    background-color: #00b8db;
+}
+.bg-orange-5 {
+    background-color: #ff6900;
+}
+.bg-rose-7 {
+    background-color: #c70036;
+}
+.bg-indigo-8 {
+    background-color: #372aac;
+}
+
+
+/* Backgrounds Colors with opacity */
+.bg-green-5-10 {
+    background-color: rgba(0, 201, 81,0.1);
+}
+.bg-blue-5-10 {
+    background-color: rgba(43, 127, 255,0.1);
+}
+.bg-purple-5-10 {
+    background-color: rgba(173, 70, 255,0.1);
+}
+.bg-orange-5-10{
+    background-color: rgba(255, 105, 0,0.1);
+}
+.bg-white-op-20{
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.bg-white-op-40{
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+
+
+
+/* Hover BG Color */
+.hover-bg-dark-08:hover{
+    background-color: rgba(11, 14, 19, 0.88);;
+}
+.hover-bg-gray-1:hover{
+  background-color: #f3f4f6;
+}
+.hover-bg-yellow-3:hover {
+    background-color: #ffdf20;
+}
+.hover-bg-yellow-4:hover {
+    background-color: #fdc700;
+}
+.hover-bg-green-3:hover
+{
+    background-color: #7bf1a8;
+}
+.hover-bg-pink-3:hover {
+    background-color: #fda5d6;
+}
+.hover-bg-pink-6:hover {
+    background-color: #e60076;
+}
+.hover-bg-blue-3:hover {
+    background-color: #8ec5ff;
+}
+.hover-bg-blue-6:hover {
+    background-color: #155dfc;
+}
+.hover-bg-purple-3:hover {
+    background-color: #dab2ff;
+}
+.hover-bg-twitter:hover {
+    background-color: #1DA1F2;
+}
+.hover-bg-gray-05:hover{
+    background-color: #fbf9fa;
+}
+

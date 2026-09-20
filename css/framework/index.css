@@ -1,0 +1,15 @@
+@import url(./utilities/global.css);
+@import url(./utilities/display.css);
+@import url(./utilities/sizing.css);
+@import url(./utilities/position.css);
+@import url(./utilities/backgrounds.css);
+@import url(./utilities/borders.css);
+@import url(./utilities/typography.css);
+@import url(./utilities/grid.css);
+@import url(./utilities/spacing.css);
+
+/* The `@import url();` rule in CSS is used to import external CSS files into another stylesheet. */
+
+/* Here, I separated different parts of the styles into multiple CSS files (such as display, spacing, and typography). */
+
+/* Then, I imported all of them into one main CSS file, which I linked to my HTML file. This keeps the project organized and easier to maintain. */
