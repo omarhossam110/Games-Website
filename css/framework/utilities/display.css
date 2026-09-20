@@ -143,6 +143,10 @@
     .md-justify-center {
         justify-content: center;
     }
+    
+    .md-flex-row{
+        flex-direction: row;
+    }
 
     .md-flex-col {
         flex-direction: column;
